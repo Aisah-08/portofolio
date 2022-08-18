@@ -1,0 +1,12 @@
+:root {
+  --primary: #130cb7;
+  --secondary: #52e5e7;
+}
+.navbar {
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-top: 30px;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+}
